@@ -1,0 +1,21 @@
+{
+  "name": "rt-template",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/rt-template.umd.js",
+  "module": "fesm5/rt-template.js",
+  "es2015": "fesm2015/rt-template.js",
+  "esm5": "esm5/rt-template.js",
+  "esm2015": "esm2015/rt-template.js",
+  "fesm5": "fesm5/rt-template.js",
+  "fesm2015": "fesm2015/rt-template.js",
+  "typings": "rt-template.d.ts",
+  "metadata": "rt-template.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
